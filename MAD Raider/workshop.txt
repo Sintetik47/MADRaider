@@ -1,0 +1,6 @@
+version=1
+id=1364028423
+title=MAD Raider
+description=This mod replaces the PickUpTruckMccoy on MADRaider
+tags=
+visibility=friendsOnly
