@@ -1,1 +1,3 @@
-MADRaider
+MADRaid
+
+исправить описание
