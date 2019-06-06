@@ -1,3 +1,8 @@
-MADRaider  888
+MADRaider
 
-Мод для игры Project Zomboid. Добавляет транспорт в стиле фильма Mad Max.
+Мод для игры Project Zomboid.
+Добавляет транспорт в стиле фильма Mad Max.
+
+Автомобили
+
+- PickUp
